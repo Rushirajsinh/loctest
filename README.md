@@ -1,0 +1,4 @@
+loctest
+=======
+
+location test
